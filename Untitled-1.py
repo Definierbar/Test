@@ -26,6 +26,5 @@ Der Wert wurde nicht geändert")
 
 
 p1 = Worker("Max", "Mustermann", 3600)
-p2 = Worker(p1, "Mustermann", 3600)
 
 print(p1.get_worker_id())
