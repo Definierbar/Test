@@ -1,5 +1,5 @@
 class Worker():
-    def init(self, vorname :str, nachname :str, lohn :int):
+    def init(self, vorname :str, nachname :str, lohn :int) -> None:
         self.vorname = vorname
         self.nachname = nachname
         self.lohn = lohn
