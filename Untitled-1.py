@@ -4,6 +4,8 @@ class Worker():
         self.nachname = nachname
         self.lohn = lohn
 
+    def Ficken():
+        print("8======D")
 
     def senken_lohn(self, Franken):
         if (Franken <= 3600):
